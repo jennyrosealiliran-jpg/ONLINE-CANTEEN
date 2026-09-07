@@ -13,7 +13,7 @@ public class seller extends javax.swing.JFrame {
     }
 
     
-                         
+                        
     private void initComponents() {
 
         jToggleButton1 = new javax.swing.JToggleButton();
